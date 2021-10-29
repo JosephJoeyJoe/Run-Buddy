@@ -146,8 +146,6 @@
     padding: 0 100px 20px 100px;
     display: inline-block;
     border-bottom: 3px solid;
-    position: relative;
-    left: 31%;
   }
   
   .primary-border {
@@ -182,8 +180,11 @@
     font-size: 38px;
   }
 
-.trainer {
+.trainers {
   text-align: center;
+}
+
+.trainer {
   width: 900px;
   margin: 0 auto 30px auto;
   background: #024e76;
