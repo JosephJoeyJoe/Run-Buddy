@@ -8,7 +8,7 @@ A website that offers fitness training services.
 * CSS
 
 ## Website
-https://josephjoeyjoe.github.io/run-buddy/
+https://josephjoeyjoe.github.io/Run-Buddy/
 
 ## Contribution
 Made with ❤️ by Joseph Burns
